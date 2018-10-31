@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "gateway",
+    "gitCompany": "",
+    "baseName": "store",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "M2RiNjE0ODY3MzIyMjFmMzNmM2UxNzM5NWJmOGRkOTY3Yjk0MzNjYTY5YjcwOWE5MmMwZGEzNTg5ZThmN2U5NzM0NjhlM2JhNjQ4N2ZhYjE1MWE5MmE4NWE5ZDQ1YWY0ZTQ0YTA3NzBjZDhlY2UzNjY0NTIzMDdmMzRlNTc1NmE="
+  },
+  "git-provider": "GitHub",
+  "git-company": "lobmarib",
+  "repository-name": "store"
+}
